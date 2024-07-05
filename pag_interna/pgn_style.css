@@ -7,8 +7,12 @@
     width: 0px;
     height: 0px;
 }
+body{
+    width: 100vw;
+    height: 100vh;
+}
 img{
-    width: 98vw;
+    width: 100vw;
     margin: 0px;
 }
 a{
